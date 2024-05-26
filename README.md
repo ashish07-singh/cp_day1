@@ -1,1 +1,1 @@
-write a program to print "namaste dunia" .
+1. write a program to print "namaste dunia" .
